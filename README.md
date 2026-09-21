@@ -1,1 +1,2 @@
 # GitWorkshop
+- Git basics
